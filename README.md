@@ -2,10 +2,10 @@
 <h1>Ah-Jji?</h1>
 <div align="center">
 <h3>🍀 Me 🍀</h3>
-<p><a href="https://eunhee-programming.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
-<p>Hi There! I'm a frontEnd developer.</p>
-<p> My main skills are HTML, CSS, JavaScript and React.</p>
-<p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
+<p><a href="https://notitleuntitle.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
+<p>Hi There! I'm a Data developer.</p>
+<p> My main skills are Python, ML, and React.</p>
+<p>I want to handle stable data management and a lot of data.</p>
   
 #
 <h3>❤️ I love...</h3>
