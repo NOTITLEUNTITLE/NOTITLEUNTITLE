@@ -5,7 +5,7 @@
 <h3>🍀 Me 🍀</h3>
 <p><a href="https://notitleuntitle.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 <p>Hi There! I'm a Soft Ware Engineer.</p>
-<p> My main skills are Python, ML/DL </p>
+<p> My main skills are Python, Data </p>
 <p>I want to handle stable data management and a lot of data.</p>
   
 #
