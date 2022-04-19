@@ -6,11 +6,11 @@
 <p><a href="https://notitleuntitle.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 <p>Hi There! I'm a Data Scientist.</p>
 <p> My main skills are Python, Data </p>
-<p>I want to handle stable data management and a lot of data.</p>
+
   
 #
 <h3>❤️ I love...</h3>
-<p>💪Workout,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;</p>
+<p>💪Workout,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;</p>
   
 #
 <h3>🔥 Tech Stack 🔥</h3>
